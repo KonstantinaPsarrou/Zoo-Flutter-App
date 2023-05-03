@@ -9,6 +9,6 @@ A Flutter App that  displays a list of animals with their name, age, weight and 
 ## How to run the app
 
 1. Make sure you have downloaded Flutter on your computer: https://flutter.dev/docs/get-started/install . Run flutter doctor to make sure it's working fine.
-2. Clone the repository in the dev file. 
+2. Clone this repository into the dev file. 
 3. Choose Chrome or an Android Virtual Device from Android Studio as the device to run the app.
 4. Run main.dart. It takes a few minutes.
