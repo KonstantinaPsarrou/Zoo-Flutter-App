@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Details
 
-A Flutter App that  displays a list of animals with their name, age, weight and an image. When the user taps on a animal in the list, the app displays its details (species, name, age, weight, description) in another screen. Users can also mark/unmark their favorite animal by tapping on the heart next to it in the list.
+A Flutter App that  displays a list of animals with their name, age, weight and an image. When the user taps on an animal in the list, the app displays its details (species, name, age, weight, description) in another screen. Users can also mark/unmark their favorite animal by tapping on the heart next to it in the list.
 
 ## How to run the app
 
