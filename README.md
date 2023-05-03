@@ -13,4 +13,4 @@ A Flutter App that  displays a list of animals with their name, age, weight and 
 3. Choose Chrome or an Android Virtual Device from Android Studio as the device to run the app.
 4. Run main.dart. It takes a few minutes.
 
-![zooappphone.png](https://github.com/KonstantinaPsarrou/Zoo-Flutter-App/blob/main/zooappphone.png)
+![zoo.png](https://github.com/KonstantinaPsarrou/Zoo-Flutter-App/blob/main/zoo.png)
