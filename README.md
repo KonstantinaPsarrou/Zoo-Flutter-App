@@ -1,4 +1,4 @@
-# dion_s_zoo
+# Dion's Zoo Flutter App
 
 A new Flutter project.
 
